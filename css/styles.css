@@ -39,10 +39,8 @@ h3 {
   padding: 20px;
   position: relative;
 }
-
-.c1 {
-  border-top-color: hsl(180, 62%, 55%);
-  border-top-width: 3px;
+.card{
+   border-top-width: 3px;
   border-top-style: solid;
   border-radius: 2%;
   background-color: white;
@@ -50,6 +48,10 @@ h3 {
   padding: 20px;
   height: 150px;
   width: 250px;
+}
+
+.c1 {
+  border-top-color: hsl(180, 62%, 55%);
   margin: 50px auto 50px auto;
   position: absolute;
   left: 7.5%;
@@ -58,41 +60,24 @@ h3 {
 
 .c2 {
   border-top-color: hsl(0, 78%, 62%);
-  border-top-width: 3px;
-  border-top-style: solid;
-  border-radius: 2%;
-  background-color: white;
-  height: 150px;
-  box-shadow: 0 5px 10px hsl(229, 6%, 66%);
+
   padding: 20px;
   width: 250px;
   margin: 50px auto 25px auto;
 }
 
 .c3 {
-  box-shadow: 0 5px 10px hsl(229, 6%, 66%);
+
   border-top-color: hsl(34, 97%, 64%);
-  border-top-width: 3px;
-  border-top-style: solid;
-  border-radius: 2%;
-  background-color: white;
   padding: 20px;
-  width: 250px;
   margin: 25px auto 25px auto;
-  height: 150px;
+
 }
 
 .c4 {
   border-top-color: hsl(212, 86%, 64%);
-  border-top-width: 3px;
-  border-top-style: solid;
-  border-radius: 2%;
-  background-color: white;
   padding: 20px;
-  box-shadow: 0 5px 10px hsl(229, 6%, 66%);
-  width: 250px;
   margin: 50px auto 50px auto;
-  height: 150px;
   position: absolute;
   right: 7.5%;
   bottom: 20%;

@@ -50,7 +50,7 @@ h2 {
   color: hsl(229, 6%, 66%);
 }
 
-@media (min-width: 600px){
+@media (min-width: 1200px){
 .c1{
   margin-top: 110px;
   margin-left: 40px;
